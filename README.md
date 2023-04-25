@@ -1,5 +1,9 @@
 # VCD誘発早期閉経モデルの世界的動向
 
+北海道科学大学 阿部由依先生
+埼玉県立大学　須永康代先生
+埼玉県立大学　村田健児
+
 __**VCD誘発早発卵巣不全のマウスモデル**__
 
 4-vinycyclohexene diepoxide
@@ -8,6 +12,16 @@ __**VCD誘発早発卵巣不全のマウスモデル**__
 
 環境に伴うVCDの毒性効果は、卵巣の原始卵胞プールの枯渇を引き起こすことにより、早発卵巣不全 (POI) を引き起こす
 VCD が卵母細胞の機能不全を誘発し、卵巣に毒性作用を引き起こす可能性がある
+
+__**作成経緯**__
+OARSI 2023（Denver）にて、Gabby(University of Pittsburgh)　and Hiro(Nagoya University)との立ち話
+
+Uncovering the “riddle of femininity” in osteoarthritis: a systematic review and meta-analysis of menopausal animal models and mathematical modeling of estrogen treatment
+Osteoarthritis and Cartilage
+Volume 31, Issue 4, April 2023, Pages 447-457
+https://www.sciencedirect.com/science/article/pii/S1063458422009670
+
+https://www.biorxiv.org/content/biorxiv/early/2023/03/02/2023.03.02.530756.full.pdf
 
 
 __**Scorping Review**__
