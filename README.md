@@ -1,6 +1,5 @@
 # VCD誘発早期閉経モデルの世界的動向
 
-
 __**VCD誘発早発卵巣不全のマウスモデル**__
 
 4-vinycyclohexene diepoxide
@@ -12,13 +11,13 @@ VCD が卵母細胞の機能不全を誘発し、卵巣に毒性作用を引き�
 
 
 __**Scorping Review**__
-
 This review followed the recommendation and guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-analyses. The protocol was registered with PROSPERO (Prepareing).
 
 **Literature search**
 **MEDLINE Search**
 (((("4-vinyl-1-cyclohexene dioxide" [Supplementary Concept]) OR (vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) AND (("Menopause, Premature"[Mesh]) OR (Premature Ovarian insufficiency))
-18:43
+
+29 hit
 
 
 
