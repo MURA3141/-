@@ -14,14 +14,27 @@ __**VCD誘発早発卵巣不全のマウスモデル**__
 VCD が卵母細胞の機能不全を誘発し、卵巣に毒性作用を引き起こす可能性がある
 
 __**作成経緯**__
+
 OARSI 2023（Denver）にて、Gabby(University of Pittsburgh)　and Hiro(Nagoya University)との立ち話
+
+E-mail
+As promised, I wanted to send you over some information on the VCD model. Here is a review article that discusses the model at large and sites some of the original work using the model. Here is our pre-print paper using the model to study knee osteoarthritis. 
+
+Please don't hesitate to reach out with any questions! I hope you have a great rest of your week!
+Gabby
 
 Uncovering the “riddle of femininity” in osteoarthritis: a systematic review and meta-analysis of menopausal animal models and mathematical modeling of estrogen treatment
 Osteoarthritis and Cartilage
 Volume 31, Issue 4, April 2023, Pages 447-457
 https://www.sciencedirect.com/science/article/pii/S1063458422009670
 
+VCDモデルでの実験
 https://www.biorxiv.org/content/biorxiv/early/2023/03/02/2023.03.02.530756.full.pdf
+
+
+__**今後の計画**__
+
+
 
 
 __**Scorping Review**__
