@@ -67,7 +67,13 @@ rat(26),mouse(29),monley(1)<br>
  -軟骨や靱帯研究を進めていく予定<br>
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
