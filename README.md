@@ -1,23 +1,23 @@
 # VCD誘発早期閉経モデルの世界的動向
 
-MTG 2023.5.19 11:00
+MTG 2023.5.19 11:00<br>
 
-北海道科学大学 阿部由依先生
-埼玉県立大学　須永康代先生
-埼玉県立大学　村田健児
+北海道科学大学 阿部由依先生<br>
+埼玉県立大学　須永康代先生<br>
+埼玉県立大学　村田健児<br>
 
-# __**VCD誘発早発卵巣不全のマウスモデル**__
-
-4-vinycyclohexene diepoxide
-4-ビニルシクロヘキセンジオキシドは、2つのエポキシド官能基を含む有機化合物:
-発がん性物質かつ卵毒性に影響が生じる物質
-
-環境に伴うVCDの毒性効果は、卵巣の原始卵胞プールの枯渇を引き起こすことにより、早発卵巣不全 (POI) を引き起こす
-VCD が卵母細胞の機能不全を誘発し、卵巣に毒性作用を引き起こす可能性がある
-
-# __**作成経緯**__
-
-OARSI 2023（Denver）にて、Gabby(University of Pittsburgh)　and Hiro(Nagoya University)との立ち話
+# __**VCD誘発早発卵巣不全モデル**__<br>
+4-vinycyclohexene diepoxide<br>
+4-ビニルシクロヘキセンジオキシドは、2つのエポキシド官能基を含む有機化合物:発がん性物質かつ卵毒性に影響が生じる物質<br>
+環境に伴うVCDの毒性効果は、卵巣の原始卵胞プールの枯渇を引き起こすことにより、早発卵巣不全 (POI) を引き起こす<br>
+VCD が卵母細胞の機能不全を誘発し、卵巣に毒性作用を引き起こす可能性がある<br>
+<br>
+## __**OVXとの比較**__<br>
+OVX: 侵襲大、急激なホルモン低下（卵巣ホルモンのほとんどが失われる）、卵巣組織摘出、アンドロゲン産生無し<br>
+VCD: 侵襲小、段階的なホルモン低下｛卵胞刺激ホルモン（FSH）の上昇、エストロゲンの低下、発情周期の不順｝、卵巣組織残存、アンドロゲン産生有り<br>
+<br>
+## __**作成経緯**__<br>
+OARSI 2023（Denver）にて、Gabby(University of Pittsburgh)　and Hiro(Nagoya University)との立ち話<br>
 
 E-mail
 As promised, I wanted to send you over some information on the VCD model. Here is a review article that discusses the model at large and sites some of the original work using the model. Here is our pre-print paper using the model to study knee osteoarthritis. 
@@ -33,18 +33,26 @@ https://www.sciencedirect.com/science/article/pii/S1063458422009670
 VCDモデルでの実験
 https://www.biorxiv.org/content/biorxiv/early/2023/03/02/2023.03.02.530756.full.pdf
 
+<br><
+br>
+# __**VCD誘発早発卵巣不全モデルのScorping Review**__<br>
+This review followed the recommendation and guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-analyses. The protocol was registered with PROSPERO (Prepareing).
+
+
+
+
+
+
+
 
 # __**今後の計画**__
 ・VCDモデルの作成<br>
 ・Scorping Reviewの論文化<br>
 ・共同研究について<br>
--OVX, OVX+ES,sham 12,16 weeks after surgery 2023.6.11<br>
--VCD modelの共有<br>
--軟骨や靱帯研究を進めていく予定<br>
+ -OVX, OVX+ES,sham 12,16 weeks after surgery 2023.6.11<br>
+ -VCD modelの共有<br>
+ -軟骨や靱帯研究を進めていく予定<br>
 
-
-__**Scorping Review**__
-This review followed the recommendation and guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-analyses. The protocol was registered with PROSPERO (Prepareing).
 
 **Literature search**
 **MEDLINE Search**
