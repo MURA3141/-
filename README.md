@@ -5,6 +5,7 @@ MTG 2023.5.19 11:00<br>
 北海道科学大学 阿部由依先生<br>
 埼玉県立大学　須永康代先生<br>
 埼玉県立大学　村田健児<br>
+埼玉県立大学大学院  真下葵(M1)、押田竜河(M1)、小島拓馬(M2)、川端空(D1)<br>
 
 # __**VCD誘発早発卵巣不全モデル**__<br>
 4-vinycyclohexene diepoxide<br>
@@ -67,7 +68,12 @@ rat(26),mouse(29),monley(1)<br>
 
 
 
-# 29hit
+
+
+
+
+
+
 - [ ] Concentrated exosomes from menstrual blood-derived stromal cells improves ovarian activity in a rat model of premature ovarian insufficiency.
 Zhang S, Huang B, Su P, Chang Q, Li P, Song A, Zhao X, Yuan Z, Tan J.
 Stem Cell Res Ther. 2021 Mar 12;12(1):178. doi: 10.1186/s13287-021-02255-3.
