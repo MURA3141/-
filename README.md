@@ -33,16 +33,24 @@ https://www.sciencedirect.com/science/article/pii/S1063458422009670
 VCDモデルでの実験
 https://www.biorxiv.org/content/biorxiv/early/2023/03/02/2023.03.02.530756.full.pdf
 
-<br><
-br>
+<br>
 # __**VCD誘発早発卵巣不全モデルのScorping Review**__<br>
-This review followed the recommendation and guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-analyses. The protocol was registered with PROSPERO (Prepareing).
+Presented by Ryu(M1) and Aoi(M1)<br>
+This review followed the recommendation and guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-analyses. The protocol was registered with PROSPERO (Prepareing).<br>
 
+**MEDLINE Search**
+(((("4-vinyl-1-cyclohexene dioxide" [Supplementary Concept]) OR (vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) AND (("Menopause, Premature"[Mesh]) OR (Premature Ovarian insufficiency)) <br>
 
+**pick up**
+糖尿病(2)、癌(7)、メタボリックシンドローム(2)、卵巣機能(14)、生殖能力(3)、毒性(4)、心疾患(4)、骨(4)、脳（8）<br>
+rat(26),mouse(29),monley(1)<br>
+腹腔内注射(51)、皮下注射(3)、その他(1)<br>
+<img width="465" alt="image" src="https://github.com/MURA3141/VCD-systematic-review/assets/131435195/1f124e2d-4f28-4c3c-9f77-d33df5b8acad"><br>
+<img width="454" alt="image" src="https://github.com/MURA3141/VCD-systematic-review/assets/131435195/1faa69e3-3475-4cec-ab0f-05441f45e6e2"><br>
+・マウスとラット共に160mg/kgで15日間が多く　使用されている<br>
+・ラットでは次いで80mg/kgで30日間、マウスでは80mg/kgで15日間<br>
 
-
-
-
+![スクリーンショット 2023-05-10 9 58 07](https://github.com/MURA3141/VCD-systematic-review/assets/131435195/b8b25a3d-69ef-480d-959c-113310331b56)<br>
 
 
 # __**今後の計画**__
@@ -53,10 +61,6 @@ This review followed the recommendation and guidelines of the Preferred Reportin
  -VCD modelの共有<br>
  -軟骨や靱帯研究を進めていく予定<br>
 
-
-**Literature search**
-**MEDLINE Search**
-(((("4-vinyl-1-cyclohexene dioxide" [Supplementary Concept]) OR (vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) AND (("Menopause, Premature"[Mesh]) OR (Premature Ovarian insufficiency))
 
 
 # 29hit
