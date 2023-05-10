@@ -34,8 +34,10 @@ VCDモデルでの実験
 https://www.biorxiv.org/content/biorxiv/early/2023/03/02/2023.03.02.530756.full.pdf
 
 <br>
-# __**VCD誘発早発卵巣不全モデルのScorping Review**__<br>
+
+# VCD誘発早発卵巣不全モデルのScorping Review<br>
 Presented by Ryu(M1) and Aoi(M1)<br>
+
 This review followed the recommendation and guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-analyses. The protocol was registered with PROSPERO (Prepareing).<br>
 
 **MEDLINE Search**
@@ -43,10 +45,13 @@ This review followed the recommendation and guidelines of the Preferred Reportin
 
 **pick up**
 糖尿病(2)、癌(7)、メタボリックシンドローム(2)、卵巣機能(14)、生殖能力(3)、毒性(4)、心疾患(4)、骨(4)、脳（8）<br>
+
 rat(26),mouse(29),monley(1)<br>
+
 腹腔内注射(51)、皮下注射(3)、その他(1)<br>
 <img width="465" alt="image" src="https://github.com/MURA3141/VCD-systematic-review/assets/131435195/1f124e2d-4f28-4c3c-9f77-d33df5b8acad"><br>
 <img width="454" alt="image" src="https://github.com/MURA3141/VCD-systematic-review/assets/131435195/1faa69e3-3475-4cec-ab0f-05441f45e6e2"><br>
+
 ・マウスとラット共に160mg/kgで15日間が多く　使用されている<br>
 ・ラットでは次いで80mg/kgで30日間、マウスでは80mg/kgで15日間<br>
 
