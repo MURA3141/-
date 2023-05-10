@@ -3,9 +3,7 @@
 MTG 2023.5.19 11:00
 
 北海道科学大学 阿部由依先生
-
 埼玉県立大学　須永康代先生
-
 埼玉県立大学　村田健児
 
 # __**VCD誘発早発卵巣不全のマウスモデル**__
@@ -37,8 +35,12 @@ https://www.biorxiv.org/content/biorxiv/early/2023/03/02/2023.03.02.530756.full.
 
 
 # __**今後の計画**__
-　
-
+・VCDモデルの作成<br>
+・Scorping Reviewの論文化<br>
+・共同研究について<br>
+-OVX, OVX+ES,sham 12,16 weeks after surgery 2023.6.11<br>
+-VCD modelの共有<br>
+-軟骨や靱帯研究を進めていく予定<br>
 
 
 __**Scorping Review**__
