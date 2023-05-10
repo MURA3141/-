@@ -43,7 +43,6 @@ This review followed the recommendation and guidelines of the Preferred Reportin
 **MEDLINE Search**
 (((("4-vinyl-1-cyclohexene dioxide" [Supplementary Concept]) OR (vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) OR (4 vinylcyclohexene diepoxide)) AND (("Menopause, Premature"[Mesh]) OR (Premature Ovarian insufficiency)) <br>
 
-**pick up**
 糖尿病(2)、癌(7)、メタボリックシンドローム(2)、卵巣機能(14)、生殖能力(3)、毒性(4)、心疾患(4)、骨(4)、脳（8）<br>
 
 rat(26),mouse(29),monley(1)<br>
